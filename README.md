@@ -43,7 +43,7 @@ Below are the RMSE errors and corresponding accuracy for each alpha used in the 
 | 100.0     | 0.1172 | 0.9111       |
 
 **Final Ridge Regression Metrics**:
-- **R² is**: 0.9997654914151545
+- **R² is**: 0.9111059
 - **RMSE is**: 3.62393044021158e-05 (indicating an accuracy of approximately 99%).
 
 ### Other Methods Used
@@ -55,6 +55,13 @@ The following algorithms were also implemented and their respective performances
 | Random Forest                  | 0.01066    | 
 | K-Neighbors Regressor          | 0.21668    |
 | AdaBoost Regressor             | 0.02386    | 
+## Outputs 
+![{C2AAE3DE-DF4D-4325-9457-D2DE5FFE2BCA}](https://github.com/user-attachments/assets/733f10d7-2f9f-4b28-b05e-57b3696ae51a)
+![image](https://github.com/user-attachments/assets/3ee16e4c-d496-4601-99af-88b5feed7929)
+![image](https://github.com/user-attachments/assets/e87669fa-948f-4f39-af53-8298e8d7643c)
+![image](https://github.com/user-attachments/assets/573feb99-27dd-4bc9-a7aa-2a3538b60864)
+![image](https://github.com/user-attachments/assets/b84135a4-dafd-4469-a93e-854e309390dd)
+![image](https://github.com/user-attachments/assets/e1c21693-56ae-4867-a18a-077780729c5e)
 
 ## Contribution
 This project was made by the following contributors:
